@@ -1,0 +1,10 @@
+Work Flow of Linear Regression model:
+
+Step 1: Set Learning Rate and number of Iterations; Initiate Random weight and bias value.
+Step 2: Build Linear Regression Equation. (y= wx + b)
+Step 3: Find the "y predicted" value for given x value for yhe corresponding bias and weight.
+Step 4: Check the loss finction for these parameter values. (Difference between "y predicted" and "true y" )
+Step 5: Update the parameter values using Gradient Descent. (new weight and bias value)
+Step 6: Step 3,4,5 are repeated till we get minimum loss function
+
+Finally we will get the best model (best weight and bias value) as it has minimum loss function.
