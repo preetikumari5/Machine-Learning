@@ -5,5 +5,5 @@ Welcome to my Machine Learning Progress repository! This repository documents my
 Overview
 This repository includes:
 
-<h3>Projects: Comprehensive machine learning projects with detailed explanations and results.</h3>
-<h3>Notebooks: Jupyter notebooks with step-by-step implementations of machine learning concepts.</h3>
+<p>Projects: Comprehensive machine learning projects with detailed explanations and results.</p>
+<p>Notebooks: Jupyter notebooks with step-by-step implementations of machine learning concepts.</p>
